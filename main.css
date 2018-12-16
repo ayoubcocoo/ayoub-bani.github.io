@@ -1,0 +1,17 @@
+.fab{
+    color: black;
+}
+
+.fa-gitlab:hover{
+    color: #E24329;
+}
+.fa-linkedin:hover{
+    color: #0077B5;
+}
+
+.fa-twitter-square:hover{
+    color: #00ACED;
+}
+/* .fa-heart{
+    color:#e31b23;
+} */
